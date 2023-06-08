@@ -1,0 +1,28 @@
+2023-06-08 14:42:23	?	?	Saved module info caches
+2023-06-08 14:42:23	?	?	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
+2023-06-08 14:42:23	guest	http://localhost:3033/http404/	Saved module info caches
+2023-06-08 14:42:23	guest	http://localhost:3033/http404/	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
+2023-06-08 14:42:23	guest	http://localhost:3033/http404/	Installed module 'ProcessRecentPages'
+2023-06-08 14:42:23	guest	http://localhost:3033/http404/	Saved module info caches
+2023-06-08 14:42:23	guest	http://localhost:3033/http404/	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
+2023-06-08 14:42:23	guest	http://localhost:3033/http404/	Saved module info caches
+2023-06-08 14:42:23	guest	http://localhost:3033/http404/	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
+2023-06-08 14:42:23	guest	http://localhost:3033/http404/	Installed module 'AdminThemeUikit'
+2023-06-08 14:42:23	guest	http://localhost:3033/http404/	Saved module info caches
+2023-06-08 14:42:23	guest	http://localhost:3033/http404/	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
+2023-06-08 14:42:34	guest	http://localhost:3033/http404/	Saved module info caches
+2023-06-08 14:42:34	guest	http://localhost:3033/http404/	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
+2023-06-08 14:42:34	guest	http://localhost:3033/http404/	Installed module 'ProcessLogger'
+2023-06-08 14:42:34	guest	http://localhost:3033/http404/	Saved module info caches
+2023-06-08 14:42:34	guest	http://localhost:3033/http404/	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
+2023-06-08 14:42:34	guest	http://localhost:3033/http404/	Installed module 'InputfieldIcon'
+2023-06-08 14:42:35	guest	http://localhost:3033/http404/	Saved module info caches
+2023-06-08 14:42:35	guest	http://localhost:3033/http404/	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
+2023-06-08 14:42:35	guest	http://localhost:3033/http404/	Saved module info caches
+2023-06-08 14:42:35	guest	http://localhost:3033/http404/	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
+2023-06-08 14:42:49	?	?	Saved module info caches
+2023-06-08 14:42:49	?	?	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
+2023-06-08 14:42:50	?	?	Saved module info caches
+2023-06-08 14:42:50	?	?	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
+2023-06-08 14:42:50	?	?	Saved module info caches
+2023-06-08 14:42:50	?	?	Found 2 module(s) missing file: FieldtypeNumber => /home/nbarnabee/dev/projects/processwire/starter/site/modules/FieldtypeNumber/FieldtypeNumber.module, ProcessPage => /home/nbarnabee/dev/projects/processwire/starter/site/modules/ProcessPage/ProcessPage.module
