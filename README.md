@@ -4,12 +4,28 @@ My repo for experimenting with ProcessWire.
 
 For the full official README: https://github.com/processwire/processwire/blob/master/README.md
 
+Startup short version:
+
+1. Is Apache running?
+
+   - `apache2ctl status` to check
+   - `sudo apache2ctl start` to fire it up
+   - `apache2ctl stop` and `apache2ctl restart` if there's a problem
+
+2. Is MySQL running?
+
+   - `mysql.server status` to check
+   - `mysql.server start` if it isn't
+
+3. Is the PHP server running?
+   - `php -S localhost:3033`
+
 ## Table of Contents
 
-[Installation](#installing-processwire)
-[Upgrading](#upgrading-processwire)
-[Troubleshooting](https://processwire.com/docs/start/install/troubleshooting/)
-[Support](#support-and-links)
+- [Installation](#installing-processwire)
+- [Upgrading](#upgrading-processwire)
+- [Troubleshooting](https://processwire.com/docs/start/install/troubleshooting/)
+- [Support](#support-and-links)
 
 ### Reference
 
