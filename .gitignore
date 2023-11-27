@@ -1,8 +1,9 @@
-# Personal
-
 config_notes.txt
+site/assets/logs
+site/assets/sessions
 
-# Boilerplate
+
+# Default
 .DS_Store?
 .DS_Store
 *.old
@@ -17,14 +18,6 @@ sess_*
 *.cache
 *.swp
 *.swo
-site-default/config-dev.php
-site-default/assets/logs
-site-default/assets/files
-site-default/assets/sessions
-site-default/assets/cache
-site-default/assets/installed.php
-site
-site-skyscrapers
 .htaccess
 tmp
 upgrade.php
