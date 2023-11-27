@@ -8,9 +8,11 @@ Startup short version:
 
 1. Is Apache running?
 
-   - `apache2ctl status` to check
-   - `sudo apache2ctl start` to fire it up
-   - `apache2ctl stop` and `apache2ctl restart` if there's a problem
+   - `apache2ctl status` or `service apache2 status` to check
+   - `sudo apache2ctl start` or `service apache2 start` to fire it up
+   - `apache2ctl stop` and `apache2ctl restart` (or the `service apache2` equivalents) if there's a problem
+
+   You may run into an issue with "mod rewrite." `sudo a2enmod rewrite` will indicate whether it's installed/enabled.
 
 2. Is MySQL running?
 
@@ -19,6 +21,12 @@ Startup short version:
 
 3. Is the PHP server running?
    - `php -S localhost:3033`
+
+Post-installation notes:
+
+- Runtime errors are logged to `/site/assets/logs/errors.txt`
+- `/wire/config.php` shows configuration options. Edits should go in `/site/config.php`
+- Edit the `.htaccess` file to force HTTPS, setup redirects, and other things
 
 ## Table of Contents
 
